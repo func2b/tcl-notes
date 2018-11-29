@@ -1,0 +1,8 @@
+first line
+2nd line
+abcdef
+123456
+Next is a blank line
+
+一二三四五六
+あいうえお
